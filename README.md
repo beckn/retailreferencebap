@@ -1,1 +1,1 @@
-# ondc-test-bap-community
+# retail reference app [WIP]
